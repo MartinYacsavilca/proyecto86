@@ -1,0 +1,31 @@
+body{
+	background-image: url("imagesBg.jpg");
+	background-repeat: no-repeat;
+    color: #5deb41;
+    font-size: 19px;
+    
+}
+
+.box1{
+    text-align: center;
+    padding: 30px 30px 2px 10px;
+    color: beige;
+}
+
+.box2{
+    text-align: center;
+    padding: 30px 30px 40px 100px;
+    color: beige;
+}
+h1{
+    color: rgba(0, 255, 255, 0.514);
+
+}
+label{
+    color: beige;
+}
+input{
+    background-color: azure;
+    color: black;
+    
+}
